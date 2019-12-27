@@ -1,0 +1,16 @@
+{
+    "dataInfo":[
+        {"id":0,"img":"/img/101.jpg","name":"好利来","spe":"[北京]蛋挞1份","price":3,"del":6,"mail":122651},
+        {"id":1,"img":"/img/102.jpg","name":"掉香缘掉渣饼","spe":"[西单]掉渣饼1份","price":7.9,"del":10,"mail":35716},
+        {"id":2,"img":"/img/103.jpg","name":"小城外婆肴私房菜","spe":"[上地]蛋挞1份","price":98,"del":243,"mail":122651},
+        {"id":3,"img":"/img/104.jpg","name":"铁木真烤肉自助城","spe":"[回龙观]单人自助餐","price":79.9,"del":83,"mail":122651},
+        {"id":4,"img":"/img/105.jpg","name":"北京全聚德","spe":"[北京]3-4人餐","price":458,"del":573,"mail":122651},
+        {"id":5,"img":"/img/106.jpg","name":"华莱士炸鸡汉堡","spe":"[北京]中杯可乐","price":13,"del":31,"mail":122651}
+    ],
+    "pringInfo":[
+        {"id":0,"name":"汉堡王(环洋大厦店)","price":33,"add":"上地765m","img":"/img/301.jpg","spe":"汉堡","xing":"☆☆☆☆☆"},
+        {"id":1,"name":"小城外婆肴私房菜（上地店）","price":46,"add":"上地1.2km","img":"/img/302.jpg","spe":"私房菜","xing":"☆☆"},
+        {"id":2,"name":"愉味·烤全鱼（辉煌国际店）","price":89,"add":"上地700m","img":"/img/303.jpg","spe":"烤鱼","xing":"☆☆☆☆"},
+        {"id":3,"name":"西少爷肉夹馍（西二旗店）","price":34,"add":"上地722m","img":"/img/304.jpg","spe":"肉夹馍","xing":"☆☆☆"}
+    ]
+}
